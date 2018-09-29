@@ -1,5 +1,5 @@
 # JS and CSS Analog and Digital Clock
-A real time analog and digital clock made with JS and CSS of the [30 Day Vanilla JS Challenge](https://github.com/wesbos/JavaScript30) by [Wes Bos](https://github.com/wesbos).
+A real time analog and digital clock made with JS and CSS. One of the [30 Day Vanilla JS Challenge](https://github.com/wesbos/JavaScript30) by [Wes Bos](https://github.com/wesbos).
 
 ### Other JS challenges made:
 * Drum kit: [Go to repository](https://github.com/mateovasquez/Drum-kit) / [See preview](https://mateovasquez.github.io/Drum-kit/)
